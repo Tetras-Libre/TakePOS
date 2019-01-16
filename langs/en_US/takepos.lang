@@ -21,3 +21,4 @@ Place=Place
 TakeboxNecesary='TakeBOX' application required
 OrderPrinters=Order printers
 CashDeskBankAccountFor=Account used for payments :
+AutoPrintTickets=Automatically print tickets
