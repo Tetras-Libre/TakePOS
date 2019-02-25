@@ -22,3 +22,4 @@ TakeboxNecesary='TakeBOX' application required
 OrderPrinters=Order printers
 CashDeskBankAccountFor=Account used for payments :
 AutoPrintTickets=Automatically print tickets
+TicketVatGrouped=Group VAT by rate in tickets
