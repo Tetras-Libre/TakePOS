@@ -24,3 +24,4 @@ OrderPrinters=Commande imprimantes
 CashDeskBankAccountFor=Compte utilisé pour les paiments en
 AutoPrintTickets=Imprimer les tickets automatiquement
 TicketVatGrouped=Grouper la TVA par taux dans les tickets
+NoPreviousBillForCustomer=Impossible de créer une facture négative sans une facture précédente pour le client courant
